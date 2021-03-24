@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-fan-meetup/static/css/main.40aac82a.chunk.css",
+    "main.js": "/react-fan-meetup/static/js/main.4781734c.chunk.js",
+    "main.js.map": "/react-fan-meetup/static/js/main.4781734c.chunk.js.map",
+    "runtime-main.js": "/react-fan-meetup/static/js/runtime-main.7aa02ce7.js",
+    "runtime-main.js.map": "/react-fan-meetup/static/js/runtime-main.7aa02ce7.js.map",
+    "static/js/2.02c02bb9.chunk.js": "/react-fan-meetup/static/js/2.02c02bb9.chunk.js",
+    "static/js/2.02c02bb9.chunk.js.map": "/react-fan-meetup/static/js/2.02c02bb9.chunk.js.map",
+    "index.html": "/react-fan-meetup/index.html",
+    "static/css/main.40aac82a.chunk.css.map": "/react-fan-meetup/static/css/main.40aac82a.chunk.css.map",
+    "static/js/2.02c02bb9.chunk.js.LICENSE.txt": "/react-fan-meetup/static/js/2.02c02bb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7aa02ce7.js",
+    "static/js/2.02c02bb9.chunk.js",
+    "static/css/main.40aac82a.chunk.css",
+    "static/js/main.4781734c.chunk.js"
+  ]
+}
